@@ -1,0 +1,11 @@
+requests
+bs4
+transformers
+huggingface_hub
+bitsandbytes 
+peft
+accelerate
+datasets 
+tqdm
+streamlit
+pyyaml

@@ -1,0 +1,24 @@
+# Ignore model files
+models/*
+lora_weights/*
+# Ignore virtual environment
+philo/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large model or lib files
+*.bin
+*.pt
+*.ckpt
+*.dll
+*.lib
+
+# System files
+.DS_Store
+Thumbs.db

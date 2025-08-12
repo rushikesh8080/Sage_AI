@@ -1,0 +1,4 @@
+base_model_dir: "./models/llama-2-7b-chat-hf/"
+lora_weights_path: "./fine_tune/lora-weights/"  # (optional, not needed if merged)
+device: "cpu"
+torch_dtype: "float16"
